@@ -93,7 +93,7 @@
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("var greeting = \"Hello World\";\r\nalert(greeting);\r\n\n\n//# sourceURL=webpack:///./src/index.ts?");
+eval("var greeting = \"Hello World\";\nalert(greeting);\n\n\n//# sourceURL=webpack:///./src/index.ts?");
 
 /***/ })
 
